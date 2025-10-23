@@ -16,5 +16,9 @@
 
 ## Adding Custom Paths
 - You can also add your own directory, for example `~/scripts`
-- mkdir -p ~/scripts
-- 
+  ```
+  mkdir -p ~/scripts
+  export PATH="$PATH:$HOME/scripts"
+  source ~/.bashrc
+  ```
+- This now allows you to run these scripts from anywhere.
