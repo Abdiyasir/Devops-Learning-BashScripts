@@ -9,7 +9,7 @@ for i in {1..5}; do
   echo "Count: $i"
 done
 ```
--Result:
+- Result:
 ```
 Count: 1
 Count: 2
