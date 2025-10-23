@@ -3,14 +3,14 @@
 
 ##  Creating Variables
 - Variables are declared without spaces around the `=` sign:
-`name="Abdi"`
-`age=25`
+- `name="Abdi"`
+- `age=25`
 - To display the value of a variable, prefix it with $:
 - `echo "Hello, $name! You are $age years old."`
 
 ## Example Script
-`course="Linux Bash Scripting"`
-`echo "Welcome to the $course module!"`
-The script will print:
-`Welcome to the Linux Bash Scripting module!`
+- `course="Linux Bash Scripting"`
+- `echo "Welcome to the $course module!"`
+- The script will print:
+- `Welcome to the Linux Bash Scripting module!`
 
