@@ -11,7 +11,7 @@ if [ $num -gt 5 ]; then
   echo "The number is greater than 5."
 fi
 ```
-## if else Statement
+## `if` `else` Statement
 - For two possible outcomes
 ```
 if [ "$name" == "Yasir"]; then
@@ -21,7 +21,7 @@ else
 fi
 ```
 
-## if elif else Statement
+## `if` `elif` `else` Statement
 - For multiple conditions
 ```
 if [ "$score" -ge 90 ]; then
