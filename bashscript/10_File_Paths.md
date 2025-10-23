@@ -14,9 +14,8 @@
 - `ls /home/abdi/Arena/*.txt`
 
 ## Checking Paths Exist
-
-path="Arena/game.sh"
 ```
+path="Arena/game.sh"
 if [ -e "$path" ]; then
   echo "Path exists: $path"
 else
