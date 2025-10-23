@@ -26,4 +26,10 @@
 
 ## Looping Arguments
 - $@ allows you to loop through all arguments
-- <pre> ```bash #!/bin/bash for arg in "$@"; do echo "Argument: $arg" done ``` </pre>
+- ```bash
+#!/bin/bash
+
+for arg in "$@"; do
+  echo "Argument: $arg"
+done
+```
