@@ -11,4 +11,6 @@
 ## Example Script
 `course="Linux Bash Scripting"`
 `echo "Welcome to the $course module!"`
--
+The script will print:
+`Welcome to the Linux Bash Scripting module!`
+
