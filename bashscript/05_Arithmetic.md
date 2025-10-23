@@ -13,7 +13,7 @@ echo "Sum: $sum"
 - Result:
 - `Sum: 15`
 
-## Increasing & Decreasing Vasriables
+## Increasing & Decreasing Variables
 ```
 count=1
 ((count++))   
