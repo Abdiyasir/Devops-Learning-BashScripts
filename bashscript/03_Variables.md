@@ -6,7 +6,7 @@
 `name="Abdi"`
 `age=25`
 - To display the value of a variable, prefix it with $:
-`echo "Hello, $name! You are $age years old."`
+- `echo "Hello, $name! You are $age years old."`
 
 ## Example Script
 `course="Linux Bash Scripting"`
