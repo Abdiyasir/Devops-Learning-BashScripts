@@ -12,3 +12,13 @@ echo "Sum: $sum"
 ```
 - Result:
 - `Sum: 15`
+
+## Increasing & Decreasing Vasriables
+```
+count=1
+((count++))   
+echo $count
+
+((count--))   
+echo $count
+```
