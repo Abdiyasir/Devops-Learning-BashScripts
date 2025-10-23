@@ -9,6 +9,5 @@
 
 ## Using the Bash Interpreter
 - Alternatively, you can run the script using the Bash interpreter directly once the script has been made:
-`bash script.sh`
+- `bash script.sh`
 - This method doesn’t require the file to have execute permissions — it simply runs the script through Bash.
-- 
