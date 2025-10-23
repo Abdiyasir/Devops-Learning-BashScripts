@@ -5,5 +5,4 @@
 ##  What is Bash?
 - Bash (Bourne Again SHell) is a command interpreter and scripting language. It executes commands from user input or from a file (a script).
 - A typical Bash script starts with a **shebang line** — this tells the system which interpreter should execute the file.
-- ```bash
-#!/bin/bash
+- ```bash #!/bin/bash
