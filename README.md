@@ -7,6 +7,7 @@
 ## Bash Script Module
 - This repository contains my Bash scripting notes — written and organized into topics for easy learning and reference.
 - I have gone over the theory, explanations, and practical examples that you can run directly in the terminal.
+- It also includes a practical **Bash Battle Arena** game designed to teach and improve Bash scripting in an interactive way.
 
 ## Topics Covered
 | Topic                                 | Description                                                              |
