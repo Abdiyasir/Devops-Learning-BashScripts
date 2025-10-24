@@ -5,8 +5,11 @@
 4. List the contents of both Battlefield and Archive.
 ```
 mkdir -p Battlefield
+```
+```
 touch Battlefield/knight.txt Battlefield/sorcerer.txt Battlefield/rogue.txt
-
+```
+```
 if [ -z "$1" ]
 then
 echo "Please provide a directory"
@@ -32,7 +35,8 @@ echo "Knight.txt does not exist"
 fi
 
 fi
-
+```
+```
 echo "Battlefield Contents"
 ls Battlefield
 
